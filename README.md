@@ -1,4 +1,4 @@
 # machine-learning
 
-log
+log\n
 1.bp neural network
